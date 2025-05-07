@@ -1,0 +1,14 @@
+# Ignore output file
+output.wav
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment (if any)
+venv/
+
+# Ignore other unnecessary files (add any other files here)
+*.log
+*.bak
